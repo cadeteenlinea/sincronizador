@@ -1,0 +1,14 @@
+c:\users\eninfoprog05\documents\visual studio 2010\Projects\Sincronizador_CadeteEnLinea\Sincronizador_CadeteEnLinea\bin\Debug\Sincronizador_CadeteEnLinea.exe.config
+c:\users\eninfoprog05\documents\visual studio 2010\Projects\Sincronizador_CadeteEnLinea\Sincronizador_CadeteEnLinea\bin\Debug\Sincronizador_CadeteEnLinea.exe
+c:\users\eninfoprog05\documents\visual studio 2010\Projects\Sincronizador_CadeteEnLinea\Sincronizador_CadeteEnLinea\bin\Debug\Sincronizador_CadeteEnLinea.pdb
+c:\users\eninfoprog05\documents\visual studio 2010\Projects\Sincronizador_CadeteEnLinea\Sincronizador_CadeteEnLinea\bin\Debug\Newtonsoft.Json.dll
+c:\users\eninfoprog05\documents\visual studio 2010\Projects\Sincronizador_CadeteEnLinea\Sincronizador_CadeteEnLinea\bin\Debug\Newtonsoft.Json.pdb
+c:\users\eninfoprog05\documents\visual studio 2010\Projects\Sincronizador_CadeteEnLinea\Sincronizador_CadeteEnLinea\bin\Debug\Newtonsoft.Json.xml
+c:\users\eninfoprog05\documents\visual studio 2010\Projects\Sincronizador_CadeteEnLinea\Sincronizador_CadeteEnLinea\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\eninfoprog05\documents\visual studio 2010\Projects\Sincronizador_CadeteEnLinea\Sincronizador_CadeteEnLinea\obj\x86\Debug\Sincronizador_CadeteEnLinea.Form1.resources
+c:\users\eninfoprog05\documents\visual studio 2010\Projects\Sincronizador_CadeteEnLinea\Sincronizador_CadeteEnLinea\obj\x86\Debug\Sincronizador_CadeteEnLinea.Properties.Resources.resources
+c:\users\eninfoprog05\documents\visual studio 2010\Projects\Sincronizador_CadeteEnLinea\Sincronizador_CadeteEnLinea\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+c:\users\eninfoprog05\documents\visual studio 2010\Projects\Sincronizador_CadeteEnLinea\Sincronizador_CadeteEnLinea\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+c:\users\eninfoprog05\documents\visual studio 2010\Projects\Sincronizador_CadeteEnLinea\Sincronizador_CadeteEnLinea\obj\x86\Debug\Sincronizador_CadeteEnLinea.exe
+c:\users\eninfoprog05\documents\visual studio 2010\Projects\Sincronizador_CadeteEnLinea\Sincronizador_CadeteEnLinea\obj\x86\Debug\Sincronizador_CadeteEnLinea.pdb
+c:\users\eninfoprog05\documents\visual studio 2010\Projects\Sincronizador_CadeteEnLinea\Sincronizador_CadeteEnLinea\obj\x86\Debug\Sincronizador_CadeteEnLinea.SincronizadorCadetes.resources
